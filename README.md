@@ -91,6 +91,11 @@ A few cleaning steps involved judgment calls, not just routine fixes:
 
 ---
 
+## View Online
+
+📓 Kaggle Notebook:
+https://www.kaggle.com/code/huzaifakhan200/used-cars-data-analysis/notebook
+
 ## Tools
 
 Python, Pandas, NumPy, Matplotlib, Seaborn, JupyterLab — developed in WSL2 (Ubuntu).
